@@ -51,12 +51,8 @@ The dashboard includes analysis of,
 
 ![Sales & Supply Chain Performance Dashboard](Screenshot%20(1818).png)
 
-##  Project File
-
-The Power BI `.pbix` file is included in this repository for further exploration.
 
 ## Skills Demonstrated
-
 - Data Cleaning & Transformation
 - Data Modeling
 - DAX Measures
@@ -65,3 +61,15 @@ The Power BI `.pbix` file is included in this repository for further exploration
 - Supply Chain Analysis
 - Data Visualization
 - Business Intelligence
+  
+## Project Files
+- `Sales & Supply Chain Performance Dashboard.pbix` - Power BI dashboard file
+- `Screenshot (1818).png` - Dashboard preview
+- `README.md` - Project documentation
+
+
+## Author
+**Samudi Tharusha**
+
+## Skills
+Power BI | SQL | Excel | Supply Chain Management | Data Analysis
