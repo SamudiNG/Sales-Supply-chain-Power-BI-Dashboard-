@@ -53,7 +53,8 @@ The dashboard includes analysis of,
 - Improve Regional Performance- Examine factors contributing to stronger sales in the West and East regions and identify potential opportunities in lower-           performing regions.
 - Monitor Category Profitability- Track category-level profitability and investigate why Furniture generates comparatively lower profit despite significant sales.
 - Track Shipping Efficiency- Regularly monitor shipping performance against the selected five-day analytical benchmark to identify orders requiring further          investigation.
-
+  
+These are analytical recommendations, not actions implemented or business improvements already achieved.
 ## Methodology & Assumptions 
 
 - Data Preparation- Used Excel and Power Query to prepare and transform the retail order dataset.
